@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<object data="../assets/SCUA-8T3RFP_R0_EN.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="./SCUA-8T3RFP_R0_EN.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 You can use the [editor on GitHub](https://github.com/jwinela/jwinela.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
